@@ -1,0 +1,207 @@
+body
+{
+		background-image: url("img/tlo.png");
+		margin: 0px;
+		font-family: 'Rowdies', cursive;
+		color: white;
+}
+
+a:hover
+{
+	color: white;
+}
+
+#logo
+{
+	width: 1270px;
+	height: 60px;
+	background-color: #808080; 
+	font-family: 'Syne Tactile', cursive;
+	font-size: 50px;
+	color: #383838;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 5px 0px 5px 0px;
+	letter-spacing: 3px;
+	border-bottom: 5px solid #303030;
+	text-shadow:
+	2px 2px 0 #C8C8C8,
+	-2px 2px 0 #C8C8C8,
+	-2px -2px 0 #C8C8C8,
+	2px -2px 0 #C8C8C8;
+	margin-left: auto;
+	margin-right: auto;
+	border-left: 5px solid #181818;
+	border-right: 5px solid #181818;
+}
+
+#container
+{
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #cccccc;
+	width: 1250px;
+	padding: 10px;
+	border-left: 5px solid #181818;
+	border-right: 5px solid #181818;
+}
+
+#spisstacji
+{
+	padding-left: 80px;
+	font-size: 30px;
+	letter-spacing: 2px;
+}
+#spis
+{
+	float: left;
+	width: 650px;
+	padding-left: 50px;
+}
+
+#legenda
+{
+	padding-left: 80px;
+	float: left;
+}
+
+#opis
+{
+	clear: both;
+	margin-left: auto;
+	margin-right: auto;
+	font-size: 50px;
+	text-align: center;
+}
+
+#zawartosc
+{
+	font-size: 15px;
+	margin-left: 25px;
+	margin-right: 25px;
+	letter-spacing: 1px;
+}
+
+ol
+{
+	margin-top: 5px;
+}
+
+ol > li
+{
+	font-size: 22px;
+	padding: 3px;
+	letter-spacing: 2px;
+}
+
+#bojanowo
+{
+	font-size: 15px;
+	color: black;
+}
+
+#zaborowice
+{
+	font-size: 15px;
+	color: black;
+}
+
+#borszyn1
+{
+	font-size: 15px;
+	color: black;
+}
+
+#borszyn2
+{
+	font-size: 15px;
+	color: black;
+}
+
+#gora
+{
+	font-size: 15px;
+	color: black;
+}
+
+#slawecice
+{
+	font-size: 15px;
+	color: black;
+}
+
+#strumienna
+{
+	font-size: 15px;
+	color: black;
+}
+
+#narratow
+{
+	font-size: 15px;
+	color: black;
+}
+
+#niechlow
+{
+	font-size: 15px;
+	color: black;
+}
+
+#dryzyna
+{
+	font-size: 15px;
+	color: black;
+}
+
+#szlichtyngowa
+{
+	font-size: 15px;
+	color: black;
+}
+
+#wilkow
+{
+	font-size: 15px;
+	color: black;
+}
+
+#serby1
+{
+	font-size: 15px;
+	color: black;
+}
+
+#serby2
+{
+	font-size: 15px;
+	color: black;
+}
+
+#odrzycko
+{
+	font-size: 15px;
+	color: black;
+}
+
+.scrollup
+{
+	width: 64px;
+	height: 64px;
+	text-decoration: none;
+	background: url("img/up1.png") no-repeat 0px 0px;
+	position: fixed;
+	right: 50px;
+	bottom: 50px;
+	display: none;
+}
+
+.u-blowUpImg:hover {
+  cursor: zoom-in; /* Kursor przybliżenia */
+}
+
+#slajd
+{
+	padding: 20px 40px;
+	text-align: justify;
+}
